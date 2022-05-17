@@ -2,8 +2,9 @@
 
 
 
-
+<!--
 - 🔭 
+-->
 - 🌱 Atualmente estudando Python
 <!--
 - 👯 I’m looking to collaborate on ...
