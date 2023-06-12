@@ -5,7 +5,7 @@
 <!--
 - 🔭 
 -->
-- 🌱 Atualmente estudando Python
+- 🌱 Atualmente estudando JavaScript
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
